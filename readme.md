@@ -12,6 +12,10 @@ O Projeto Spotify Clone foi criado para fixar o conhecimento adquirido no curso 
 
 No projeto Spotify Clone, eu utilizei as tecnologias HTML, CSS e Bootstrap. As imagens foram tiradas do site oficial do [Spotify](https://www.spotify.com/br/).
 
+#  Acesse o layout através do seu dispositivo:
+
+spotify-layout-clone.netlify.app
+
 # 📁Como baixar o projeto:
 
 ```
